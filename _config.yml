@@ -2,3 +2,5 @@ theme: jekyll-theme-modernist
 title: Piano Genealogy
 description: Explore the piano through the ages!
 baseurl: /jacobfloisand.github.io
+include: photos
+include: sounds

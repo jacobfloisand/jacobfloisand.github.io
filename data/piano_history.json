@@ -1,0 +1,77 @@
+[
+    {
+      "name": "Monochord",
+      "parent": "root",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Polychord without bridge",
+      "parent": "Monochord",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Polychord with bridge",
+      "parent": "Monochord",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Dulcimer",
+      "parent": "Polychord without bridge",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Psalterium",
+      "parent": "Polychord without bridge",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Clavicitherium",
+      "parent": "Psalterium",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Spinet virginal",
+      "parent": "Psalterium",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Harpsichord",
+      "parent": "Psalterium",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Clavichord",
+      "parent": "Polychord with bridge",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Fortepiano (horizontal)",
+      "parent": "Clavichord",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Square piano",
+      "parent": "Fortepiano (horizontal)",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Modern upright piano",
+      "parent": "Fortepiano (horizontal)",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Grand Piano",
+      "parent": "Fortepiano (horizontal)",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Electric Piano",
+      "parent": "Fortepiano (horizontal)",
+      "dataAvailable" : "true"
+    },
+    {
+      "name": "Player Piano",
+      "parent": "Fortepiano (horizontal)",
+      "dataAvailable" : "true"
+    }
+  ]
